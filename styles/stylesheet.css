@@ -1,0 +1,29 @@
+html {
+  background-color: white;
+}
+
+.header {
+  color: black;
+  text-align: center;
+}
+
+#malpond {
+  width: 300px;
+  border: solid 10px black;
+}
+
+#column1 {
+  align-items: center;
+  background-color: #1185a7;
+  color: white;
+  text-align: center;
+  padding: 40px;
+}
+
+#column2 {
+  text-align: center;
+  color: black;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+}
