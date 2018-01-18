@@ -59,13 +59,26 @@ a:hover {
   line-height: 90px;
   color: #fff;
 }
-#button-div {
-  display: flex;
-  align-items: flex-end;
-  justify-content: center;
-}
 a {
   color: #fff;
+}
+h3 {
+  color: #fff;
+  text-align: center;
+}
+h5 {
+  color: #fff;
+}
+p {
+  color: #fff;
+}
+.bio-section {
+  margin-top: 45px;
+  display: flex;
+  justify-content: center;
+}
+#bio-card {
+  background: rgba(0, 0, 0, 0.4);
 }
 #hobs {
   width: 300px;
